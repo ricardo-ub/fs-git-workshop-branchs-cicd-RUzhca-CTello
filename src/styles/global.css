@@ -3,17 +3,15 @@
    Paleta DevOps · Neón · Oscuro
    ===================================================== */
 
-
-
 :root {
     --color-bg: #020617;
     --color-bg-soft: #07111f;
     --color-surface: #0b1220;
     --color-surface-alt: #111827;
 
-    --color-primary: #c7ddff;
-    --color-primary-light: #ffffff;
-    --color-secondary: #7c3aed;
+    --color-primary: #0066ff;
+    --color-primary-light: #00c8ff;
+    --color-secondary: #cced3a;
     --color-accent: #facc15;
 
     --color-text: #f8fafc;
@@ -23,7 +21,7 @@
     --color-border: rgba(0, 200, 255, 0.35);
     --color-border-soft: rgba(148, 163, 184, 0.18);
 
-    --shadow-neon-blue: 0 0 18px rgba(0, 102, 255, 0.65);
+    --shadow-neon-blue: 0 0 18px rgba(31, 195, 47, 0.65);
     --shadow-neon-cyan: 0 0 24px rgba(0, 200, 255, 0.45);
     --shadow-neon-purple: 0 0 24px rgba(124, 58, 237, 0.45);
 

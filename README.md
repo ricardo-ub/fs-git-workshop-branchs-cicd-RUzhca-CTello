@@ -18,6 +18,9 @@ Además, el repositorio incluye workflows de GitHub Actions para validar automá
 
 ## Objetivos de la práctica
 
+Cambio hecho por Ricardo Uzhcaaa y Carlos Tellooo
+hola1
+
 Al finalizar la práctica, serán capaces de:
 
 * Crear un fork de un repositorio y configurarlo correctamente para trabajo en equipo.
